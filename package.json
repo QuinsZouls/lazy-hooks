@@ -1,0 +1,33 @@
+{
+  "name": "lazy-hooks",
+  "main": "index.js",
+  "version": "0.1.0",
+  "author": "quinszouls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuinsZouls/lazy-hooks/issues"
+  },
+  "homepage": "https://github.com/QuinsZouls/lazy-hooks#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  },
+  "keywords": [
+    "react",
+    "react-hooks"
+  ],
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
